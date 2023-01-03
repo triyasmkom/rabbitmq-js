@@ -1,0 +1,14 @@
+{
+  "name": "rabbit-mq",
+  "version": "1.0.0",
+  "description": "rabbit mq with docker",
+  "main": "producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "triyas",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
